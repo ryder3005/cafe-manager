@@ -1,0 +1,72 @@
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

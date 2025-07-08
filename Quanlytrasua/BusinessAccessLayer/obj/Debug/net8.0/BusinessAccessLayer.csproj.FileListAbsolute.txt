@@ -1,0 +1,90 @@
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.deps.json
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\Business.395A7FC9.Up2Date
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\refint\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\BusinessAccessLayer\obj\Debug\net8.0\ref\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.deps.json
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\Business.395A7FC9.Up2Date
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\refint\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\BusinessAccessLayer\obj\Debug\net8.0\ref\BusinessAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.deps.json
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\Business.395A7FC9.Up2Date
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\refint\BusinessAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\ref\BusinessAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.deps.json
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\Business.395A7FC9.Up2Date
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\refint\BusinessAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\ref\BusinessAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.deps.json
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\Business.395A7FC9.Up2Date
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\refint\BusinessAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\ref\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.deps.json
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\Business.395A7FC9.Up2Date
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\refint\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\BusinessAccessLayer\obj\Debug\net8.0\ref\BusinessAccessLayer.dll

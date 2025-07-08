@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer.csproj", "{52EC45E5-8B00-4A06-979E-8CE73C38CA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessAccessLayer", "..\BusinessAccessLayer\BusinessAccessLayer.csproj", "{61CFEC6F-EB48-45A1-BB1D-4AC644E636F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyQuanCaPhe", "..\QuanLyQuanCaPhe\QuanLyQuanCaPhe.csproj", "{D1C1A4FB-E586-41E9-A1F5-3B8BF54BD3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52EC45E5-8B00-4A06-979E-8CE73C38CA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52EC45E5-8B00-4A06-979E-8CE73C38CA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52EC45E5-8B00-4A06-979E-8CE73C38CA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52EC45E5-8B00-4A06-979E-8CE73C38CA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CFEC6F-EB48-45A1-BB1D-4AC644E636F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CFEC6F-EB48-45A1-BB1D-4AC644E636F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CFEC6F-EB48-45A1-BB1D-4AC644E636F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CFEC6F-EB48-45A1-BB1D-4AC644E636F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C1A4FB-E586-41E9-A1F5-3B8BF54BD3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C1A4FB-E586-41E9-A1F5-3B8BF54BD3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C1A4FB-E586-41E9-A1F5-3B8BF54BD3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C1A4FB-E586-41E9-A1F5-3B8BF54BD3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

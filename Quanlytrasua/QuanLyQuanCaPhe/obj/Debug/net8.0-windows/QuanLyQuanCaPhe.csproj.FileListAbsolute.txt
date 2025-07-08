@@ -1,0 +1,525 @@
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+D:\Downloads\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\caoth\Documents\Zalo Received Files\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Desktop\hoc\WINDOW\cuoikiwindow\QuanLyQuanCaPhe\QuanLyQuanCaPhe\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+C:\Users\caoth\Desktop\hoc\quanlitrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLogin.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+C:\Users\tuite\Downloads\Quanlytrasua (1)\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLogin.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+C:\Users\tuite\Documents\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLogin.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.ThucUongItem.resources
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Documents\Zalo Received Files\Quanlytrasua\Quanlytrasua\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDathang.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.exe
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.deps.json
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.runtimeconfig.json
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\BusinessAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.AssemblyReference.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmBan.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmChiTietHoaDon.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDashboard.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmDathang.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmHoaDon.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLoaiThucUong.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmLogin.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmNhanVien.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmTaiKhoan.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.frmThucUong.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.Properties.Resources.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.ThucUongItem.resources
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.GenerateResource.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfoInputs.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.AssemblyInfo.cs
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.csproj.CoreCompileInputs.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQu.E4A908DB.Up2Date
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\refint\QuanLyQuanCaPhe.dll
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.pdb
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\QuanLyQuanCaPhe.genruntimeconfig.cache
+C:\Users\caoth\Desktop\hoc\window2\Quanlytrasua2.1\Quanlytrasua\QuanLyQuanCaPhe\obj\Debug\net8.0-windows\ref\QuanLyQuanCaPhe.dll
